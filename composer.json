@@ -16,7 +16,7 @@
         "php": "^5.6 || ^7.0 || ^8.0",
         "ext-mbstring": "*",
         "ext-gd": "*",
-        "techocean/tecnickcom-tcpdf": "^6.3"
+        "techocean/tcpdf": "^6.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.0",
@@ -29,7 +29,7 @@
     
     "repositories": [
         {
-            "name": "techocean/tecnickcom-tcpdf",
+            "name": "techocean/tcpdf",
             "type": "vcs",
             "no-api": true,
             "url": "git@github.com:ipac-tech/TCPDF.git"
